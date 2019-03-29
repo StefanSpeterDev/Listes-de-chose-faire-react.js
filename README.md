@@ -1,3 +1,37 @@
+## Français
+
+Site réalisté grâce à un tutoriel de la chaine Traversy Media <br />
+Il s'agit tout simplement d'une application web de listes de taches à effectuer. <br />
+Je l'ai développé en React.JS, on peut ajouter une nouvelle tâche, supprimer, barrer celles que l'on a fini.<br />
+Le tout est relié à une API (https://jsonplaceholder.typicode.com/) qui génère au démarrage un certains nombres que l'on définit de tâches (ici 10) avec des paramètres aléatoires.<br /> <br />
+
+Il ne s'agit que d'un produit front-end donc à chaque réactualisation de la page les données supprimées réapparaissent et celles ajoutées disparaissent pour redonner place aux aléatoires uniquement. <br />
+Pour changer cela il faudrait ajouter une BDD et du back-end. <br/>
+
+## Ce que j'ai appris
+• Coder en React.JS <br/>
+• Générer du HTML avec du JS <br/>
+• Utiliser et créer des JSX, des événements <br/>
+• Manipuler state et props<br/><br/>
+
+Projet réalisé en 2h30 environ.<br/>
+
+## English
+
+Website realised thanks to a Youtube's tutorial from Traversy Media.<br/>
+It's a basic font-end ToDoList application.<br/>
+I developped it in React.JS, it allows us to create new tasks, delete them, cross them out.<br/>
+It's connected to an API (https://jsonplaceholder.typicode.com/)  that generates a certain ammount of tasks that we can define (I defined 10tasks) and set it with random settings. <br />
+
+## What I've learned
+• Code in React.js <br />
+• Generate HTML using JS <br/> 
+• Use and create JSX, events <br/>
+• Manipulate state and props <br/><br/>
+
+I finished the project in 2h30 around. </br>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
